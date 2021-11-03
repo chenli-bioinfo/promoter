@@ -15,6 +15,8 @@ Here we present the 11 manually curated datasets for our recently techincal revi
 |*D. melanogaster*-II|*D. melanogaster*|TATA-less|D.melanogaster/dm_testp_nontata_300(1001).txt|D.melanogaster/dm_testn_nontata_300(1001).txt|
 |*A. thaliana*-I|*A. thaliana*|TATA-containing|A.thaliana/at_testp_tata_251(300;1001).txt|A.thaliana/at_testn_tata_251(300;1001).txt|
 |*A. thaliana*-II|*A. thaliana*|TATA-less|A.thaliana/at_testp_nontata_251(300;1001).txt|A.thaliana/at_testn_nontata_251(300;1001).txt|
+|*Z. mays*-I|*Z. mays*|TATA-containing|Z. mays/zm_testp_tata_251(300;1001).txt|Z. mays/zm_testn_tata_251(300;1001).txt|
+|*Z. mays*-II|*Z. mays*|TATA-less|Z. mays/zm_testp_nontata_251(300;1001).txt|Z. mays/zm_testn_nontata_251(300;1001).txt|
 
 
 
