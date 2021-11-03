@@ -2,7 +2,7 @@
 
 Here we present the 11 manually curated datasets for our recently techincal review and assessment of DNA promoter predictors.
 
-| Dataset   | Species   |TATA?|Promoter sequence file (pos:neg=1:1)|Promoter sequence file (pos:neg=1:2)|Promoter sequence file (pos:neg=1:3)|Promoter sequence file (pos:neg=1:4)|Promoter sequence file (pos:neg=1:5)|Promoter sequence file (Sequence length)|
+| Dataset   | Species   |TATA?|Sequence file (pos:neg=1:1)|Sequence file (pos:neg=1:2)|Sequence file (pos:neg=1:3)|Sequence file (pos:neg=1:4)|Sequence file (pos:neg=1:5)|Sequence length|
 |:----------|:----------|:----|:-----------------------------------|:----------|-----------|-----------|-----------|---------------|
 |*E. coli*-I|*E. coli* σ^70|-|ec_test_sigma70_1.txt|ec_test_sigma70_2.txt|ec_test_sigma70_3.txt|ec_test_sigma70_4.txt|ec_test_sigma70_5.txt|81 bp|
 |*E. coli*-II|*E. coli*|-|ec_test_1.txt|ec_test_2.txt|ec_test_3.txt|ec_test_4.txt|ec_test_5.txt|81 bp|
