@@ -9,7 +9,7 @@ Here we present the 58 manually curated datasets for our recently techincal revi
 |*B. subtilis*|*B. subtilis*|-|bs_test_1.txt|bs_test_2.txt|bs_test_3.txt|bs_test_4.txt|bs_test_5.txt|81 bp|
 |*H. sapiens*-I|*H. sapiens*|TATA-containing|hs_TATA_test_1.txt|hs_TATA_test_2.txt|hs_TATA_test_3.txt|hs_TATA_test_4.txt|hs_TATA_test_5.txt|251;300;1001 bp
 |*H. sapiens*-II|*H. sapiens*|TATA-less|hs_nonTATA_test_1.txt|hs_nonTATA_test_2.txt|hs_nonTATA_test_3.txt|hs_nonTATA_test_4.txt|hs_nonTATA_test_5.txt|251;300;1001 bp
-|*H. sapiens*-II|*H. sapiens*|-|chr22.fa|-|-|-|-|-|
+|*H. sapiens*-III|*H. sapiens*|-|chr22.fa|-|-|-|-|-|
 |*R. norvegicus*-I|*R. norvegicus*|TATA-containing|rn_TATA_test_1.txt|rn_TATA_test_2.txt|rn_TATA_test_3.txt|rn_TATA_test_4.txt|rn_TATA_test_5.txt|251;300;1001 bp
 |*R. norvegicus*-II|*R. norvegicus*|TATA-less|rn_nonTATA_test_1.txt|rn_nonTATA_test_2.txt|rn_nonTATA_test_3.txt|rn_nonTATA_test_4.txt|rn_nonTATA_test_5.txt|251;300;1001 bp
 |*D. melanogaster*-I|*D. melanogaster*|TATA-containing|dm_TATA_test_1.txt|dm_TATA_test_2.txt|dm_TATA_test_3.txt|dm_TATA_test_4.txt|dm_TATA_test_5.txt|300;1001 bp
