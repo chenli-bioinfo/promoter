@@ -1,6 +1,6 @@
 # promoter
 
-Here we present the 11 manually curated datasets for our recently techincal review and assessment of DNA promoter predictors.
+Here we present the 58 manually curated datasets for our recently techincal review and assessment of DNA promoter predictors.
 
 | Dataset   | Species   |TATA?|Sequence file (pos:neg=1:1)|Sequence file (pos:neg=1:2)|Sequence file (pos:neg=1:3)|Sequence file (pos:neg=1:4)|Sequence file (pos:neg=1:5)|Sequence length|
 |:----------|:----------|:----|:--------------------------|:--------------------------|---------------------------|---------------------------|---------------------------|--------------|
@@ -15,5 +15,5 @@ Here we present the 11 manually curated datasets for our recently techincal revi
 |*D. melanogaster*-II|*D. melanogaster*|TATA-less|dm_nonTATA_test_1.txt|dm_nonTATA_test_2.txt|dm_nonTATA_test_3.txt|dm_nonTATA_test_4.txt|dm_nonTATA_test_5.txt|300;1001 bp
 |*A. thaliana*-I|*A. thaliana*|TATA-containing|at_TATA_test_1.txt|at_TATA_test_2.txt|at_TATA_test_3.txt|at_TATA_test_4.txt|at_TATA_test_5.txt|251;300;1001 bp
 |*A. thaliana*-II|*A. thaliana*|TATA-less|at_nonTATA_test_1.txt|at_nonTATA_test_2.txt|at_nonTATA_test_3.txt|at_nonTATA_test_4.txt|at_nonTATA_test_5.txt|251;300;1001 bp
-|*Z. mays*-I|*Z. mays*|TATA-containing|zm_TATA_test_1.txt|zm_TATA_test_2.txt|zm_TATA_test_3.txt|zm_TATA_test_4.txt|zm_TATA_test_5.txt|251;300;1001 bp
-|*Z. mays*-II|*Z. mays*|TATA-less|zm_nonTATA_test_1.txt|zm_nonTATA_test_2.txt|zm_nonTATA_test_3.txt|zm_nonTATA_test_4.txt|zm_nonTATA_test_5.txt|251;300;1001 bp
+|*Z. mays*-I|*Z. mays*|TATA-containing|zm_TATA_test.txt|-|-|-|-|251;300;1001 bp
+|*Z. mays*-II|*Z. mays*|TATA-less|zm_nonTATA_test.txt|-|-|-|-|251;300;1001 bp
